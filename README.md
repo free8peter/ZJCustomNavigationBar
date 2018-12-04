@@ -14,5 +14,6 @@ Done!
 Attention:
 It's not working when app is just launched, becuase the safeareainset totop is wrong.
 
-MIT
-Copyright peter.
+MIT<br>
+Writen By peter.
+
